@@ -1,4 +1,4 @@
-package com.epam.task3.property;
+package com.azati.task1.property;
 
 import com.epam.task3.exception.PortException;
 import com.epam.task3.util.ResourcePathUtil;

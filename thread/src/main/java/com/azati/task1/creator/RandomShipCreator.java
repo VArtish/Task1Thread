@@ -1,4 +1,4 @@
-package com.epam.task3.creator;
+package com.azati.task1.creator;
 
 import com.epam.task3.entity.Port;
 import com.epam.task3.entity.Ship;

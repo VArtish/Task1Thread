@@ -1,4 +1,4 @@
-package com.epam.task3.main;
+package com.azati.task1.main;
 
 import com.epam.task3.creator.RandomShipCreator;
 import com.epam.task3.entity.Ship;
