@@ -1,8 +1,8 @@
 package com.azati.task1.creator;
 
-import com.epam.task3.entity.Port;
-import com.epam.task3.entity.Ship;
-import com.epam.task3.property.ProjectProperties;
+import com.azati.task1.entity.Port;
+import com.azati.task1.entity.Ship;
+import com.azati.task1.property.ProjectProperties;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

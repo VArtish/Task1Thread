@@ -1,7 +1,7 @@
 package com.azati.task1.main;
 
-import com.epam.task3.creator.RandomShipCreator;
-import com.epam.task3.entity.Ship;
+import com.azati.task1.creator.RandomShipCreator;
+import com.azati.task1.entity.Ship;
 
 import java.util.List;
 import java.util.concurrent.ExecutorService;

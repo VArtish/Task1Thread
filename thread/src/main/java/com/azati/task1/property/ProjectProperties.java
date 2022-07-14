@@ -1,7 +1,7 @@
 package com.azati.task1.property;
 
-import com.epam.task3.exception.PortException;
-import com.epam.task3.util.ResourcePathUtil;
+import com.azati.task1.exception.PortException;
+import com.azati.task1.util.ResourcePathUtil;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

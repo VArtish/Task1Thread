@@ -1,6 +1,6 @@
 package com.azati.task1.entity;
 
-import com.epam.task3.util.PierIdGenerator;
+import com.azati.task1.util.PierIdGenerator;
 
 import java.io.Serializable;
 

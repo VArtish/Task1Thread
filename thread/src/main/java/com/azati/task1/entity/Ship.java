@@ -1,6 +1,6 @@
 package com.azati.task1.entity;
 
-import com.epam.task3.util.ShipIdGenerator;
+import com.azati.task1.util.ShipIdGenerator;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

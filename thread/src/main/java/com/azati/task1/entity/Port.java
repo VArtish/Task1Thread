@@ -1,6 +1,6 @@
 package com.azati.task1.entity;
 
-import com.epam.task3.property.ProjectProperties;
+import com.azati.task1.property.ProjectProperties;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
